@@ -36,7 +36,7 @@ int process_1(void){
 
     return var_0;
 }
-void process_2(void){
+/*void process_2(void){
 
 }
 void process_3(void){
@@ -45,3 +45,4 @@ void process_3(void){
 void process_4(void){
 
 }
+*/

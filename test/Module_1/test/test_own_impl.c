@@ -1,5 +1,7 @@
 #include <assert.h>
 #include <stdio.h>
+#include "../src/module/own_impl.c"
+
 
 // Mocked functions
 int get_intf_0(void) {
